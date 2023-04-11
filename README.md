@@ -1,2 +1,2 @@
-# private_package_server
-try to make an index page for package
+# python-package-server
+use GitHub as a private PyPI server
